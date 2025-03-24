@@ -20,9 +20,9 @@ This pipeline follows the **Medallion architecture** to manage raw, cleaned, and
 
 ## 🛠️ Tech Stack  
 - **Data Processing**: Python, Pandas  
-- **Database**: PostgreSQL  
+- **Database**: MySQL  
 - **ETL Framework**: Apache Airflow  
-- **Cloud Storage**: AWS S3  
+- **Cloud Storage**: Microsoft Azure  
 - **API Security**: HTTPS  
 
 ## 📂 Data Flow  
